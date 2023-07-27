@@ -1,0 +1,11 @@
+{
+	"id": 1,
+	"name": "Raju",
+	"email": "raju@gmail.com",
+	"phno": 12345,
+	"addr": {
+		"city": "Warangal",
+		"state": "Telangana",
+		"country": "India"
+	}
+}
